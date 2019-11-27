@@ -1,0 +1,101 @@
+
+.header {
+	border: 1px solid #008080;
+	height: 100%;
+	width: 90%;
+	text-align: center;
+    font-family: comic sans ms;
+    margin-left: 5%;
+     }
+.title { 
+	color: #008080;
+	text-transform: uppercase;
+
+}
+
+.Horizontal {
+	width: 900px;
+	margin-left: 5%;
+	font-family: comic sans ms;
+}
+.Horizontal ul {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+.Horizontal li a {
+	display: block;
+	background-color: #008080;
+	color: white;
+	text-decoration: none;
+	font-size: 15px;
+	height: 30px;
+	line-height: 30px;
+	padding: 5px 20px;
+	float: left;
+	
+}
+.Horizontal li a:hover {
+	background-color: #e7dede;
+	color: black;
+}
+.content {
+	margin-left: 5%;
+	margin-top: 5%;
+	margin-right: 5%;
+
+}
+.contact {
+	text-align: center;
+	background-color: #e7dede;
+	margin-top: 5%;
+	margin-left: 5%;
+	margin-right: 70%;
+	color: #008080;
+	font-family: comic sans ms;
+}
+.submit
+{
+background-color: #008080;
+color: white;
+margin-left: 25%;
+margin-right: 25%;
+width: 100px;
+text-align: center;
+}
+.submit a{
+	color: white;
+	text-decoration: none;
+}
+.submit p:hover{
+	color:black;
+}
+.main {
+	background-color: #008080;
+	margin-left: 32%;
+	margin-top: -23%;
+	margin-right: 5%;
+}
+.main table {
+	width: 200%;
+	height: 100%;
+}
+.main h1, h4, p{
+	text-align: center;	
+}
+.main h1{
+	font-family: comic sans ms;
+}
+.main img {
+	margin-left: 3%;
+	float: left;
+	margin-top: 6%;
+}
+.footer {
+	margin-top: 1%;
+	font-family: comic sans ms;
+	color: gray;
+	background-color: #e7dede;
+	margin-right: 5%;
+	margin-left: 5%;
+}

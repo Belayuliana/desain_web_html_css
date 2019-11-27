@@ -1,0 +1,94 @@
+
+.header {
+	border: 1px solid #008080;
+	height: 100%;
+	width: 90%;
+	text-align: center;
+    font-family: comic sans ms;
+    margin-left: 5%;
+     }
+.title { 
+	color: #008080;
+	text-transform: uppercase;
+
+}
+
+.Horizontal {
+	width: 900px;
+	margin-left: 5%;
+	margin-right: -10%;
+	font-family: comic sans ms;
+}
+.Horizontal ul {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+.Horizontal li a {
+	background-color: #008080;
+	color: white;
+	text-decoration: none;
+	font-size: 15px;
+	height: 30px;
+	line-height: 30px;
+	padding: 5px 50px;
+	float: left;
+}
+.Horizontal li a:hover {
+	background-color: #e7dede;
+	color: black;
+}
+.content {
+	margin-left: 5%;
+	margin-top: 5%;
+	margin-right: 5%;
+
+}
+.content img {
+	float: left;
+	border-radius: 100px;
+	height: 17%;
+	width: 17%;
+}
+.content h1{
+	text-align: center;;
+	margin-top: -0.5%;
+	font-family: comic sans ms;
+	color:#008080 ;
+}
+.content h3, h5{
+	margin-top: -20px;
+	color:#008080;
+
+}
+
+.content p{
+	text-align:left;
+	
+}
+
+.main {
+	background-color: #008080 ;
+	margin-left: 5%;
+	margin-top: 2%;
+	margin-right: 5%;
+}
+.main h1, h4, p{
+	text-align: center;	
+}
+.main h1{
+	font-family: comic sans ms;
+}
+.main img {
+	margin-left: 3%;
+	float: left;
+	margin-top: 5%;
+}
+.footer {
+	margin-top: 1%;
+	font-family: comic sans ms;
+	color: gray;
+	background-color: #e7dede;
+	margin-right: 5%;
+	margin-left: 5%;
+}
